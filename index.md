@@ -18,7 +18,7 @@
     <h1>OBJETIVO:</h1>
     <p>Ser o melhor</p>
     <hr>
-    <h1>Habilidades e competências</h1>
+    <h2>Habilidades e competências</h2>
     <p>Flexibilidade: Todas</p>
     <p>Capacidade para resolver problemas: Alta</p>
     <p>Trabalho em equipe: Suficiente</p>
