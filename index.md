@@ -40,7 +40,7 @@
     <h6>Comunicação</h6>
     <p>Suficiente</p>
     <hr>
-    <h7>Referências</h7>
+    <h6>Referências</h6>
     <ol>
         <li>Alessandra Helena,Coordenadora Geral do CBIU, CBIU, (94) 2101-7186</li>
     </ol>
