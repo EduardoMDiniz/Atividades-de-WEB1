@@ -27,20 +27,20 @@
     <p>Altamente qualificado: O suficiente pro cargo</p>
     <p>Comunicativo: Muito</p>
     <hr>
-    <h1>Experiência</h1>
+    <h2>Experiência</h2>
     <ul>
         <li>
             Estagiário, CBIU UNIFESSPA - 03/02 a 08/07
         </li>
     </ul>
-    <h1>Educação</h1>
+    <h2>Educação</h2>
     <ul>
         <li>Unifesspa, Campus 2, Sistemas de informação</li>    
     </ul>
-    <h1>Comunicação</h1>
+    <h2>Comunicação</h2>
     <p>Suficiente</p>
     <hr>
-    <h1>Referências</h1>
+    <h2>Referências</h2>
     <ol>
         <li>Alessandra Helena,Coordenadora Geral do CBIU, CBIU, (94) 2101-7186</li>
     </ol>
