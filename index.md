@@ -15,10 +15,10 @@
     </ul>
     <h1>Eduardo</h1>
     <hr>
-    <h2>OBJETIVO:</h2>
+    <h1>OBJETIVO:</h1>
     <p>Ser o melhor</p>
     <hr>
-    <h3>Habilidades e competências</h3>
+    <h1>Habilidades e competências</h1>
     <p>Flexibilidade: Todas</p>
     <p>Capacidade para resolver problemas: Alta</p>
     <p>Trabalho em equipe: Suficiente</p>
@@ -27,20 +27,20 @@
     <p>Altamente qualificado: O suficiente pro cargo</p>
     <p>Comunicativo: Muito</p>
     <hr>
-    <h4>Experiência</h4>
+    <h1>Experiência</h1>
     <ul>
         <li>
             Estagiário, CBIU UNIFESSPA - 03/02 a 08/07
         </li>
     </ul>
-    <h5>Educação</h5>
+    <h1>Educação</h1>
     <ul>
         <li>Unifesspa, Campus 2, Sistemas de informação</li>    
     </ul>
-    <h6>Comunicação</h6>
+    <h1>Comunicação</h1>
     <p>Suficiente</p>
     <hr>
-    <h6>Referências</h6>
+    <h1>Referências</h1>
     <ol>
         <li>Alessandra Helena,Coordenadora Geral do CBIU, CBIU, (94) 2101-7186</li>
     </ol>
