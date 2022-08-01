@@ -174,6 +174,7 @@
 <hr>
     <div id="Video">
         <h2>Vídeo explicativo sobre o Twitter</h2>
+        <p>O Github Pages não acha o diretorio do meu video e da minha legenda aqui nem ferrando cara.<p>
         <img src="https://media0.giphy.com/media/BtT6KZqoT9UWPSKzuC/giphy.gif?cid=790b7611a465ff5b1929ef9a873c2343a1e03af18c59bf5e&rid=giphy.gif&ct=g">
         <video poster="https://www.hardware.com.br/static/wp/2022/04/25/Elon-Musk-with-Twitter-logo.jpg?fm=pjpg&ixlib=php-3.3.0" src=AtividadeWikipedia/mim-sugarão-o-meu-rostinho.kkkkkkkkkk.mp4"controls width="275" height="500">
             <track kind="subtitles" src="AtividadeWikipedia/LegendaMim.vtt" srclang="pt"
