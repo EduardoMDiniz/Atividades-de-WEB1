@@ -208,13 +208,24 @@
 </html>
 
                                                                                                           
-                                                                                                          !DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <style>
+        div {
+            padding-bottom: 15px;
+        }
+        fieldset{
+            margin-right: 1000px;
+            padding-top: 15px;
+        }
+
+
+    </style>
 </head>
 <body>
     <h1>Informações Pessoais</h1>
@@ -314,17 +325,6 @@
         <br>
         <button>incluir</button>
         </form>
-    <style>
-        div {
-            padding-bottom: 15px;
-        }
-        fieldset{
-            margin-right: 1000px;
-            padding-top: 15px;
-        }
-
-
-    </style>
     
 </body>
 </html>
