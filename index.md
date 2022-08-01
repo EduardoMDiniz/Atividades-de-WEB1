@@ -151,3 +151,53 @@
     </table>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia</title>
+</head>
+<body>
+<div>
+    <a href="#Definição">Definição</a> <a href="#Video">Vídeo</a> <a href="#Estrutura">Estrutura e Interface</a> <a href="#Referencias">Referências</a>
+    
+</div>
+<hr>
+    <div id="Definição">
+        <h1>Twitter</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3d/Twitter_logo_2012.svg/1200px-Twitter_logo_2012.svg.png" alt="Simbolo do Twitter(Pequeno Pássaro)" width="200px;">
+        <p>O <b>Twitter</b> é uma rede social e um serviço de microblog, que permite aos usuários enviar e receber atualizações pessoais de outros contatos (em textos de até 280 caracteres, conhecidos como "tweets"), por meio do website do serviço</p>
+        <p>O <b>Twitter</b> foi criado em Março de 2006 por Jack Dorsey, Evan Williams, Biz Stone e Noah Glass e foi lançado em Julho de 2006 nos EUA. A ideia inicial dos fundadores era que o Twitter fosse uma espécie de "SMS da internet" com a limitação de caracteres de uma mensagem de celular. Inicialmente chamada Twttr (sem vogais), o nome da rede social, em inglês, significa gorjear. A ideia é que o usuário da rede social está "piando" pela internet. Desde sua criação, o Twitter ganhou extensa notabilidade e popularidade por todo mundo. Algumas vezes é descrito como o "SMS da Internet"</p>
+    </div>
+<hr>
+    <div id="Video">
+        <h2>Vídeo explicativo sobre o Twitter</h2>
+        <video poster="https://www.hardware.com.br/static/wp/2022/04/25/Elon-Musk-with-Twitter-logo.jpg?fm=pjpg&ixlib=php-3.3.0" src="mim-sugarão-o-meu-rostinho.kkkkkkkkkk.mp4"controls width="275" height="500">
+            <track kind="subtitles" src="LegendaMim.vtt" srclang="pt"
+            label="Português(Brasil)" default>
+        </video>
+    </div>
+<hr>
+    <div id="Estrutura">  
+        <h2>Estrutura e Interface</h2>  
+        <p>Desenvolvido como qualquer outra aplicação Web, a Interface do Twitter pode parecer talvez assustadora para pessoas que usam apenas aplicativos de mensagens instântaneas e redes sociais com interface mais amigável como o Instagram, Mas de forma geral não é tão complicado quanto pode parece</p>
+        <p>Segue a Interface do Twitter em navegadores pc:</p>
+        <img src="https://s2.glbimg.com/7ziXcqWSVlc8aPHnbRNC24yPp5c=/0x0:1235x618/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/d/j/atAdJpS6esAw8eSJAHsw/perfil.png" alt="Imagem da Interface do Twitter" width="500">
+        <p>Interface Mobile:    </p>
+        <img src="https://img.freepik.com/vetores-gratis/modelo-de-interface-do-twitter_23-2148582529.jpg?w=2000" alt="Interface Mobile do Twitter" width="500">
+    </div>
+<hr> 
+    <div id="Referencias">      
+        <h3>Referências</h3>
+        <ol>
+            <li><a href="https://pt.wikipedia.org/wiki/Twitter"> Artigo Wikipédia Original sobre o Twitter </a></li>
+            <li><a href="https://www.facebook.com/groups/issoehmim">Grupo do Facebook da qual a explicação sobre o Twitter foi retirada</a></li>
+            <li><a href="https://www.hardware.com.br/noticias/2022-04/elon-musk-compra-o-twitter-por-44-bilhoes.html">Elon Musk compra Twitter por 44 Bilhões(Thumb Vídeo Explicação)</a></li>
+            <li><a href="https://www.techtudo.com.br/noticias/2019/07/novo-twitter-site-faz-mudanca-radical-na-interface-veja-novidades.ghtml">Novo Twitter: Site faz Mudança Radical na Interface</a></li>
+            <li><a href="https://br.freepik.com/vetores-gratis/modelo-de-interface-do-twitter_8851847.htm">Modelo de Interface do Twitter - Vetor Gratis</a></li>
+        </ol>
+    </div>
+</body>
+</html>
