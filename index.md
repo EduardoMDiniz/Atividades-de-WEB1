@@ -174,6 +174,8 @@
 <hr>
     <div id="Video">
         <h2>Vídeo explicativo sobre o Twitter</h2>
+        <p> Vídeo e legenda simplesmente não é encontrado pelo github pages independente do que eu faça<p>
+        <iframe src="https://giphy.com/embed/BtT6KZqoT9UWPSKzuC" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-good-morning-cat-gif-BtT6KZqoT9UWPSKzuC">via GIPHY</a></p>
         <video poster="https://www.hardware.com.br/static/wp/2022/04/25/Elon-Musk-with-Twitter-logo.jpg?fm=pjpg&ixlib=php-3.3.0" src=AtividadeWikipedia/mim-sugarão-o-meu-rostinho.kkkkkkkkkk.mp4"controls width="275" height="500">
             <track kind="subtitles" src="AtividadeWikipedia/LegendaMim.vtt" srclang="pt"
             label="Português(Brasil)" default>
