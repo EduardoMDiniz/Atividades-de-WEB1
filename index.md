@@ -175,7 +175,7 @@
     <div id="Video">
         <h2>Vídeo explicativo sobre o Twitter</h2>
         <video poster="https://www.hardware.com.br/static/wp/2022/04/25/Elon-Musk-with-Twitter-logo.jpg?fm=pjpg&ixlib=php-3.3.0" src=AtividadeWikipedia/mim-sugarão-o-meu-rostinho.kkkkkkkkkk.mp4"controls width="275" height="500">
-            <track kind="subtitles" src="Atividades-de-WEB1/AtividadeWikipedia/LegendaMim.vtt" srclang="pt"
+            <track kind="subtitles" src="AtividadeWikipedia/LegendaMim.vtt" srclang="pt"
             label="Português(Brasil)" default>
         </video>
     </div>
